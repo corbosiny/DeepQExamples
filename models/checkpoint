@@ -1,0 +1,2 @@
+model_checkpoint_path: "DeepQModel.weights"
+all_model_checkpoint_paths: "DeepQModel.weights"
